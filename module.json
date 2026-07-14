@@ -1,0 +1,22 @@
+{
+  "schema": "tiger.module/v1",
+  "slug": "code-utils",
+  "name": "Tiger Utility Snippets",
+  "version": "0.1.0-beta",
+  "description": "A pack of small, handy PHP helper snippets for Tiger — slug(), human_bytes(), time_ago() and friends. Install it, then activate the ones you want in the Code Area.",
+  "author": { "name": "WebTigers", "url": "https://webtigers.com" },
+  "homepage": "https://github.com/WebTigers/TigerCodeSnippets",
+  "repository": "https://github.com/WebTigers/TigerCodeSnippets",
+  "license": "MIT",
+  "keywords": ["code", "snippets", "helpers", "utilities", "php"],
+
+  "requires": { "tiger": ">=0.5", "php": ">=8.1" },
+
+  "provides": {
+    "snippets": "snippets"
+  },
+
+  "pricing": { "model": "free", "pro_url": null },
+
+  "_notes": "A `code`-type module: it ships PHP helper snippets in snippets/ — each a self-describing tiger:snippet file that defines a global function (guarded with function_exists). It has NO routes, controllers, or schema. On install, the Code Area imports the snippets INACTIVE; a superadmin reviews the source and activates the ones they want. The snippets/ folder is the capability marker."
+}
