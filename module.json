@@ -7,7 +7,7 @@
   "author": { "name": "WebTigers", "url": "https://webtigers.com" },
   "homepage": "https://github.com/WebTigers/TigerCodeSnippets",
   "repository": "https://github.com/WebTigers/TigerCodeSnippets",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "keywords": ["code", "snippets", "helpers", "utilities", "php"],
 
   "requires": { "tiger": ">=0.5", "php": ">=8.1" },
