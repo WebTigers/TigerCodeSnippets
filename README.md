@@ -40,4 +40,4 @@ function. Keep it small, readable, and side-effect-free on load (**define, don't
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+BSD-3-Clause — see [LICENSE](LICENSE).

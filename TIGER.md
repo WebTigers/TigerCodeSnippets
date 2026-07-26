@@ -37,4 +37,4 @@ the full trust model.
 
 ## License
 
-MIT — use them anywhere. © [WebTigers](https://webtigers.com).
+BSD-3-Clause — use them anywhere. © [WebTigers](https://webtigers.com).
