@@ -2,7 +2,7 @@
   "schema": "tiger.module/v1",
   "slug": "code-utils",
   "name": "Tiger Utility Snippets",
-  "version": "0.1.0-beta",
+  "version": "1.0.0",
   "description": "A pack of small, handy PHP helper snippets for Tiger — slug(), human_bytes(), time_ago() and friends. Install it, then activate the ones you want in the Code Area.",
   "author": { "name": "WebTigers", "url": "https://webtigers.com" },
   "homepage": "https://github.com/WebTigers/TigerCodeSnippets",
